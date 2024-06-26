@@ -1,0 +1,25 @@
+{
+  "name": "draganddrop",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --build",
+    "clean": "tsc --build --clean"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.5.0",
+    "@types/node": "^20.14.5",
+    "@typescript-eslint/eslint-plugin": "^7.13.1",
+    "@typescript-eslint/parser": "^7.13.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.3",
+    "globals": "^15.6.0",
+    "typescript": "^5.4.5",
+    "typescript-eslint": "^7.13.1"
+  }
+}

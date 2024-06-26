@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/1.0.784122">
+  <PropertyGroup />
+  <ItemGroup>
+    <Folder Include="dist\" />
+    <Folder Include="src\components\" />
+  </ItemGroup>
+</Project>
